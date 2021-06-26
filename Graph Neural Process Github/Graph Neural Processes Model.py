@@ -4,6 +4,9 @@ Created on Sun Nov 22 15:23:30 2020
 
 @author: Professor Junbin Gao
 """
+# Thanks to zfjsail for providing open-source Variational Graph Autoencoders Pytorch implementation.
+# This code is based on the above code, link: https://github.com/zfjsail/gae-pytorch.git
+
 from __future__ import division
 from __future__ import print_function
 
